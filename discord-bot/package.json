@@ -1,0 +1,8 @@
+{
+    “name”: “Reputation based user monitoring system”,
+    “version”: “0.0.1”,
+    “description”: “My First Discord Bot”,
+    “main”: “bot.js”,
+    “author”: “vibeman#7047”,
+    “dependencies”: {}
+}
